@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Temporal dynamics of goal scoring in soccer"
+authors:
+  - family-names: Ayana
+    given-names: Guteraa
+  - family-names: Ehlert
+    given-names: Alexander
+  - family-names: Ehlert
+    given-names: Joseph
+  - family-names: Santagata
+    given-names: Luca
+  - family-names: Torricelli
+    given-names: Maddalena
+  - family-names: Klein
+    given-names: Brennan
+url: "https://arxiv.org/abs/2501.18606"
+preferred-citation:
+  type: article
+  title: "Temporal dynamics of goal scoring in soccer"
+  authors:
+    - family-names: Ayana
+      given-names: Guteraa
+    - family-names: Ehlert
+      given-names: Alexander
+    - family-names: Ehlert
+      given-names: Joseph
+    - family-names: Santagata
+      given-names: Luca
+    - family-names: Torricelli
+      given-names: Maddalena
+    - family-names: Klein
+      given-names: Brennan
+  year: 2025
+  identifiers:
+    - type: other
+      value: "arXiv:2501.18606"
+  url: "https://arxiv.org/abs/2501.18606"

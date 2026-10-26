@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+tqdm
+pygraphviz  # needed for graphviz_layout in goal_network.py (requires Graphviz: brew install graphviz)
